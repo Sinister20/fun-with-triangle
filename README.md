@@ -25,6 +25,5 @@ Gives area of the triangle by the height and base of triangle given
 ## Project Image
 ![alt text](https://user-images.githubusercontent.com/106140073/194103533-e80d2441-7b42-4081-b834-49d236526c26.png)
 
-## [Project Demo]
-(https://mark12-fun-with-traingle.netlify.app/)
+
 
